@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BUGS, 8位數</item>
+		<item>BUGS, 6位數</item>
+		<item>BUGS, 4位數</item>
+		<item>mBUGS, 2位數</item>
+		<item>µBUGS, 0位數</item>
+	</string-array>
+
+</resources>

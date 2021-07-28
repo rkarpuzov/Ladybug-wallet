@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>BUGS, 8 Dezimalen</item>
+		<item>BUGS, 6 Dezimalen</item>
+		<item>BUGS, 4 Dezimalen</item>
+		<item>mBUGS, 2 Dezimalen</item>
+		<item>µBUGS, keine Dezimalen</item>
+	</string-array>
+
+</resources>
