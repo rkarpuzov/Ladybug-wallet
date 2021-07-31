@@ -80,7 +80,7 @@ import de.schildbach.wallet.ui.ScanActivity;
 import de.schildbach.wallet.ui.TransactionsAdapter;
 import de.schildbach.wallet.util.MonetarySpannable;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

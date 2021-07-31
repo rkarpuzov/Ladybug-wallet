@@ -53,7 +53,7 @@ import android.widget.TextView;
 import de.schildbach.wallet.service.BlockchainService;
 import de.schildbach.wallet.service.BlockchainServiceImpl;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

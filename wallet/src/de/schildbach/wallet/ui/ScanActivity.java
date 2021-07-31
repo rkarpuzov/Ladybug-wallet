@@ -58,7 +58,7 @@ import com.google.zxing.common.HybridBinarizer;
 import com.google.zxing.qrcode.QRCodeReader;
 
 import de.schildbach.wallet.camera.CameraManager;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

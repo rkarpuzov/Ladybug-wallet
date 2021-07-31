@@ -56,7 +56,7 @@ import android.widget.ImageView;
 import de.schildbach.wallet.WalletApplication;
 import de.schildbach.wallet.util.Qr;
 import de.schildbach.wallet.util.ThrottlingWalletChangeListener;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

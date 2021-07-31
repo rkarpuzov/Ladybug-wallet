@@ -54,7 +54,7 @@ import de.schildbach.wallet.WalletBalanceWidgetProvider;
 import de.schildbach.wallet.service.BlockchainState;
 import de.schildbach.wallet.service.BlockchainStateLoader;
 import de.schildbach.wallet.util.WholeStringBuilder;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

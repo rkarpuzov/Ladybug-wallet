@@ -27,7 +27,7 @@ import android.os.Bundle;
 import android.preference.PreferenceFragment;
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

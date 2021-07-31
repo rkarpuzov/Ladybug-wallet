@@ -56,7 +56,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.CircularProgressView;
 import de.schildbach.wallet.util.Formats;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach

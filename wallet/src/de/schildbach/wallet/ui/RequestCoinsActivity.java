@@ -20,7 +20,7 @@ package de.schildbach.wallet.ui;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
-import de.schildbach.wallet.R;
+import de.schildbach.wallet_BUGS.R;
 
 /**
  * @author Andreas Schildbach
